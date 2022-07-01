@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "spring.user.datasource.jdbcurl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbcurl'"
+  },
+  {
+    "name": "spring.book.datasource.jdbcurl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbcurl'"
+  },
+  {
+    "name": "spring.user.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.username'"
+  },
+  {
+    "name": "spring.user.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.password'"
+  },
+  {
+    "name": "spring.book.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.username'"
+  },
+  {
+    "name": "spring.book.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.password'"
+  },
+  {
+    "name": "spring.book.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.driverClassName'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "spring.user.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.driverClassName'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.book.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.user.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbc-url'"
+  }
+]}
